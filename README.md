@@ -66,7 +66,7 @@ div.appendChild(viewer.getElement());
 
 # “#SemesterHack - Wir hacken das digitale Sommersemester!”
 
-**Die interaktive Version dieses Kurses können Sie unter [Link](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBergakademieFreiberg/HackathonChemie/master/README.md#1) einsehen.**
+> **Die interaktive Version dieses Kurses können Sie unter [Link](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBergakademieFreiberg/HackathonChemie/master/README.md#1) einsehen.**
 
 
 * {|>}{Herzlich Willkommen},
