@@ -66,6 +66,8 @@ div.appendChild(viewer.getElement());
 
 # “#SemesterHack - Wir hacken das digitale Sommersemester!”
 
+**Die interaktive Version dieses Kurses können Sie unter [Link](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBergakademieFreiberg/HackathonChemie/master/README.md#1) einsehen.**
+
 
 * {|>}{Herzlich Willkommen},
 * {|> UK English Male}{Welcome},
@@ -121,8 +123,6 @@ Ausgangspunkt dafür war ein exisiterender Laborversuch, der den Studierenden di
 Diese Unterlagen dienen der Vorbereitung / Begleitung eines Grundlagenversuches in der ....
 
 ![Refraktor im Labor der Technischen Chemie (TU Bergakademie Freiberg)](https://raw.githubusercontent.com/TUBergakademieFreiberg/HackathonChemie/master/img/RefraktorTUBAF.png)<!-- width="50%" -->
-
-Eine interaktive Version dieses Kurses können Sie unter [Link](https://www.dropbox.com/s/vkqlycdltsppz7w/04_Rektifikation_inLiaScript.md?dl=0) einsehen.
 
 
 ## Motivation und Begrifflichkeiten
